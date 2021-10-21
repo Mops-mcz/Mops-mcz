@@ -1,4 +1,4 @@
-## Mcz Gamer pikku
+## 𝕭𝖑𝖔𝖔𝖕𝖊𝖗 𝕾𝖊𝖗 𝕭𝖔𝖙
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JtB4JCKzOrJAcpmSkHho2G)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DCNbCoIi1J07rNnCnvMuAf)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -21,7 +21,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mops-mcz/Gamer-Pikku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blooper-ser/blooper)
      </div>
 <br>
 <br >
@@ -30,7 +30,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### ꀘꀤ꒒꒒ꍏꀷꀤ ꀘꍏ ꀘꀤ꒒꒒ꍏꀷꀤ ➪ ฅ^•ﻌ•^ฅ Gamer-Pikku
+### ꀘꀤ꒒꒒ꍏꀷꀤ ꀘꍏ ꀘꀤ꒒꒒ꍏꀷꀤ ➪ ฅ^•ﻌ•^ฅ 𝙱𝙻𝙾𝙾𝙿𝙴𝚁
 
 
 ### ⚠️ Warning! 
@@ -44,10 +44,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  don't play with me 😼 - Mops mcz<img src=https://www.linkpicture.com/q/IMG-20210923-WA0030_2.jpg>
+  K𝔞𝔩𝔦𝔨𝔞𝔯𝔲𝔱𝔥 K𝔞𝔩𝔦 ᑭ𝔞𝔡𝔦𝔭𝔦𝔨𝔨𝔲𝔪 😼 - 𝕭𝖑𝖔𝖔𝖕𝖊𝖗 𝕾𝖊𝖗<img src=https://www.linkpicture.com/q/IMG-20210923-WA0030_2.jpg>
  https://github.com/blooper |  
 ----|
-[ℕ𝕁𝔸ℕ 𝔸𝔸ℍℕ𝔼 » Pikku mcz](https://github.com/mops-mcz)  |
+[ℕ𝕁𝔸ℕ 𝔸𝔸ℍℕ𝔼 » 𝐁𝐋𝐎𝐎𝐏𝐄𝐑](https://github.com/blooper)  |
 Base, Bug Fixes, Modules | 
   
     
